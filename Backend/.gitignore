@@ -1,0 +1,19 @@
+# Entorno virtual
+venv/
+env/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Variables de entorno (contiene configuración local sensible)
+.flaskenv
+.env
+
+# Archivos de configuración de editores/IDE
+.vscode/
+.idea/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
